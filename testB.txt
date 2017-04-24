@@ -1,0 +1,2 @@
+this is testB.txt.
+prepare to rebase test.
